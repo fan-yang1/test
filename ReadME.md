@@ -1,7 +1,6 @@
 branch br
 
 change made online
+<<<<<<< HEAD
 
-
-
-local change causing conflic
+online remaining
